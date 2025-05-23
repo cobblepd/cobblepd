@@ -1,3 +1,3 @@
 ## ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Emoticon_Ranked_Top1.png/revision/latest?cb=20190130004827) There David ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Emoticon_Ranked_Top1.png/revision/latest?cb=20190130004827)
-### ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Emoticon_observer_ward.gif/revision/latest?cb=20170506230840)  Exort Tri-Solar! ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Emoticon_observer_ward.gif/revision/latest?cb=20170506230840)
-<h2 align='center'>Exort, Quas и Wex</h2> 
+### ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Emoticon_observer_ward.gif/revision/latest?cb=20170506230840) Exort, Quas и Wex ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Emoticon_observer_ward.gif/revision/latest?cb=20170506230840)
+<h2 align='center'></h2> 
