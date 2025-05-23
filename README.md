@@ -2,7 +2,7 @@
 
 ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Emoticon_observer_ward.gif/revision/latest?cb=20170506230840)  ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Emoticon_observer_ward.gif/revision/latest?cb=20170506230840) 
 
-## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_bountyrune.gif/revision/latest?cb=20210411183524" width="25"> В кратце по моему стеку технологий <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_bountyrune.gif/revision/latest?cb=20210411183524" width="25">
+## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_bountyrune.gif/revision/latest?cb=20210411183524" width="25"> В кратце по моему стеку <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_bountyrune.gif/revision/latest?cb=20210411183524" width="25">
 
 - **C++ 14, 17, 20** — опыт работы с современными стандартами, включая ООП и шаблоны. <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Emoticon_doubledamage.gif/revision/latest?cb=20210411183529" width="25">  
 - **Qt, Boost** — создание приложений с использованием популярных библиотек, Boost в процессе изучения и применения.
