@@ -4,7 +4,8 @@
 
 ## <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_bountyrune.gif/revision/latest?cb=20210411183524" width="25"> В кратце по моему стеку <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_bountyrune.gif/revision/latest?cb=20210411183524" width="25">
 
-- **C++ 14, 17, 20** — опыт работы с современными стандартами, включая ООП и шаблоны. <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Emoticon_doubledamage.gif/revision/latest?cb=20210411183529" width="25">  
+- **C++ 14, 17, 20** — опыт работы с современными стандартами, включая ООП и шаблоны. <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Emoticon_doubledamage.gif/revision/latest?cb=20210411183529" width="25">
+- **C (C11, C17)** — уверенное владение языком, написание оптимизированного и переносимого кода.
 - **Qt, Boost** — создание приложений с использованием популярных библиотек, Boost в процессе изучения и применения.
 - **GoogleTest** —разработка модульных тестов для C++ проектов, обеспечение качества и стабильности кода.  
 - **Makefile, CMake, QMake** — работа с основными инструментами сборки.  
