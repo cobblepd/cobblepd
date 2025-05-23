@@ -18,8 +18,7 @@
 
 ---
 
-Дополнительно
-
+Дополнительно <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Dotakin_pudge_chuckle.gif/revision/latest?cb=20170719225124" width="25"> 
 - Опыт работы в команде, использование систем контроля версий (Git)
 - Основы CI/CD
 - Понимание сетевых протоколов.
