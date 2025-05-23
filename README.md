@@ -7,6 +7,7 @@
 
 <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_bountyrune.gif/revision/latest?cb=20210411183524" width="25">C++ 14, 17, 20 | C11, C17 — опыт работы с современными стандартами, включая ООП и шаблоны.  
 <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_bountyrune.gif/revision/latest?cb=20210411183524" width="25"> Qt, Boost — создание приложений с использованием популярных библиотек, Boost в процессе изучения и применения.
+
 <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_bountyrune.gif/revision/latest?cb=20210411183524" width="25"> GoogleTest — разработка модульных тестов для C++ проектов, обеспечение качества и стабильности кода.  
 <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_bountyrune.gif/revision/latest?cb=20210411183524" width="25"> Makefile, CMake, QMake — работа с основными инструментами сборки.  
 <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_bountyrune.gif/revision/latest?cb=20210411183524" width="25"> Docker — базовые навыки работы с контейнерами, продолжаю развиваться.  
