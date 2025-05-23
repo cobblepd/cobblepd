@@ -1,5 +1,6 @@
 ## ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Emoticon_Ranked_Top1.png/revision/latest?cb=20190130004827) There David ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Emoticon_Ranked_Top1.png/revision/latest?cb=20190130004827)
 ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Emoticon_observer_ward.gif/revision/latest?cb=20170506230840) <h3 align="center"> Кто смеет нарушать мою концентрацию?!</h3> ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Emoticon_observer_ward.gif/revision/latest?cb=20170506230840)
+<p float="left"> <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Emoticon_observer_ward.gif/revision/latest?cb=20170506230840" width="300"></p>
 
 <!--
 **cobblepd/cobblepd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
