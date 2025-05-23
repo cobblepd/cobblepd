@@ -20,6 +20,6 @@
 
 - Git — управление версиями кода. 
 - Основы CI/CD
-- Понимание сетевых протоколов.  
-![](https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Emoticon_sentry_ward.gif/revision/latest?cb=20170506230900) ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Emoticon_sentry_ward.gif/revision/latest?cb=20170506230900)
+- Понимание сетевых протоколов.
 
+![](https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Emoticon_sentry_ward.gif/revision/latest?cb=20170506230900) ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Emoticon_sentry_ward.gif/revision/latest?cb=20170506230900)
