@@ -5,7 +5,7 @@
 
 В кратце по моему стеку технологий 
 
-- <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_bountyrune.gif/revision/latest?cb=20210411183524" width="10">C++ 14, 17, 20 | C11, C17 — опыт работы с современными стандартами, включая ООП и шаблоны.  
+- <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_bountyrune.gif/revision/latest?cb=20210411183524" width="25">C++ 14, 17, 20 | C11, C17 — опыт работы с современными стандартами, включая ООП и шаблоны.  
 - Qt, Boost — создание приложений с использованием популярных библиотек, Boost в процессе изучения и применения.
 - GoogleTest — разработка модульных тестов для C++ проектов, обеспечение качества и стабильности кода.  
 - Makefile, CMake, QMake — работа с основными инструментами сборки.  
