@@ -1,4 +1,5 @@
-## Hi there David ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Emoticon_Ranked_Top1.png/revision/latest?cb=20190130004827)
+## ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Emoticon_Ranked_Top1.png/revision/latest?cb=20190130004827) There David ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Emoticon_Ranked_Top1.png/revision/latest?cb=20190130004827)
+## Но для друзей я, Давид, САНСТРАЙК!
 https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Emoticon_observer_ward.gif/revision/latest?cb=20170506230840
 <!--
 **cobblepd/cobblepd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
