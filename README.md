@@ -1,23 +1,50 @@
-**# Hi, There David ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Emoticon_Ranked_Ancient.png/revision/latest?cb=20190216113137)
+# David Rafikov
 
-![](https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Emoticon_observer_ward.gif/revision/latest?cb=20170506230840)  ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Emoticon_observer_ward.gif/revision/latest?cb=20170506230840) 
+C++ / Qt Developer with experience in developing desktop and integration systems.
 
-## Мой стек <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Emoticon_bountyrune.gif/revision/latest?cb=20210411183524" width="25">
-
-- **C++ 14, 17, 20** — опыт работы с современными стандартами, включая ООП и шаблоны. <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Emoticon_doubledamage.gif/revision/latest?cb=20210411183529" width="25">
-- **C (C11, C17)** — уверенное владение языком, написание оптимизированного и переносимого кода.
-- **Qt, Boost** — создание приложений с использованием популярных библиотек, Boost в процессе изучения и применения.
-- **GoogleTest** —разработка модульных тестов для C++ проектов, обеспечение качества и стабильности кода.  
-- **Makefile, CMake** — работа с основными инструментами сборки.  
-- **PostgreSQL, MySQL** — проектирование и работа с базами данных, присутствуют учебные материалы в репозитории.  
-- **Python** — написание скриптов, создание приложений и ботов.  
+My main areas of interest are systems programming, multithreading, networking and performance optimization.
 
 ---
 
-Дополнительно <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Dotakin_pudge_chuckle.gif/revision/latest?cb=20170719225124" width="25"> 
-- Опыт работы в команде, использование систем контроля версий (Git)
+## Tech Stack
 
+### Languages
+- C++ (C++14 / C++17 / C++20)
+- C (C11 / C17)
+- Python
+- JavaScript
 
-![](https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Emoticon_sentry_ward.gif/revision/latest?cb=20170506230900) ![](https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Emoticon_sentry_ward.gif/revision/latest?cb=20170506230900)
+### Frameworks & Libraries
+- Qt / QML
+- Boost
+- STL
+- OpenSSL
+- rabbitmq-c
+- GoogleTest
 
-**
+### Networking
+- HTTP / HTTPS
+- WebSocket
+- REST API integration
+- RabbitMQ
+
+### Databases
+- PostgreSQL
+- MySQL
+
+### Development Tools
+- CMake
+- Makefile
+- Clang
+- Cppcheck
+- Git
+
+---
+
+## Interests
+
+- Systems programming
+- Multithreading and concurrency
+- Distributed systems
+- Performance optimization
+- Security and cryptography
